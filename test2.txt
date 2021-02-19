@@ -1,6 +1,0 @@
-tran theanh
-<<<<<<< HEAD
-asdifjasio;fjd
-tran
-=======
->>>>>>> parent of b12f65d (add test3.txt and update test2.txt')
